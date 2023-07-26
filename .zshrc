@@ -35,6 +35,10 @@ RPROMPT="[%D{%f/%m/%y} | %D{%L:%M:%S}]"
 
 setopt share_history
 
+bindkey  "^[[H"   beginning-of-line
+bindkey  "^[[F"   end-of-line
+bindkey  "^[[3~"  delete-char
+
 ## Settings for umask
 #if (( EUID == 0 )); then
 #    umask 002

@@ -1,0 +1,25 @@
+
+
+alias ls='exa -a --color=always --icons --group-directories-first'
+alias ll='exa -al --color=always --icons --group-directories-first'
+alias cat='bat'
+#alias xev='xev | awk -F'[ )]+' '/^KeyPress/ { a[NR+2] } NR in a { printf "%-3s %s\n", $5, $8 }'
+alias v='nvim'
+alias vim='nvim'
+alias inny='yay -S'
+alias uppy='yay -Syu'
+alias se='yay'
+alias cp="cp -ir"
+alias rm="rm -ir"
+alias mkdir='mkdir -pv'
+alias mv='mv -i'
+alias xprop='xprop |grep WM_CLASS'
+alias mail='cat /var/spool/mail/larry'
+alias font='fc-list | dmenu -l 20 -p ": Enter Font Name"'
+alias eb='nvim .bashrc && source .bashrc'
+alias ea='nvim .aliases && source .bashrc'
+alias free='free -mht'
+alias updatedb='sudo updatedb'
+
+disfetch
+

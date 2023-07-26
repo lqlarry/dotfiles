@@ -1,0 +1,54 @@
+# Reload functions
+super + Escape
+	"$XDG_CONFIG_HOME"/sxhkd/functions
+
+# make sxhkd reload its configuration files:
+super + ~
+  pkill -USR1 -x sxhkd
+super + alt + w
+    google-chrome-stable
+#    ~/.local/bin/chrome.sh
+super + alt + f
+    thunar
+super + alt + t
+    telegram-desktop
+super + alt + m
+    thunderbird
+super + shift + c
+    bspc node -c
+super + shift + Return
+    rofi -combi-modi window,drun,ssh -show combi
+
+Print
+    scrot ~/.screenshots/$(date +%Y-%m-%d_%H%M%S).png
+
+# Volume settings
+XF86AudioRaiseVolume
+    ~/.local/bin/volchange.sh +5%
+#    pactl set-sink-volume @DEFAULT_SINK@ +5% && volume.sh
+XF86AudioLowerVolume
+    ~/.local/bin/volchange.sh -5%
+#    pactl set-sink-volume @DEFAULT_SINK@ -5% && volume.sh
+XF86AudioMute
+    ~/.local/bin/volchange.sh toggle
+#    pactl set-sink-mute @DEFAULT_SINK@ toggle && volume.sh
+
+
+XF86AudioRaiseVolume
+    ~/.local/bin/volchange.sh +5%
+#    pactl set-sink-volume @DEFAULT_SINK@ +5% && volume.sh
+XF86AudioLowerVolume
+    ~/.local/bin/volchange.sh -5%
+#    pactl set-sink-volume @DEFAULT_SINK@ -5% && volume.sh
+XF86AudioMute
+    ~/.local/bin/volchange.sh toggle
+#    pactl set-sink-mute @DEFAULT_SINK@ toggle && volume.sh
+
+ctrl + Up
+    ~/.local/bin/volchange.sh +5%
+
+ctrl + Down
+    ~/.local/bin/volchange.sh -5%
+
+ctrl + Left
+    ~/.local/bin/volchange.sh toggle

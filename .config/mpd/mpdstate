@@ -1,0 +1,23 @@
+sw_volume: 74
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 1
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Tommy Castro - Live At The Filmore - 2000 - Flac/01 - Right As Rain.flac
+1:Tommy Castro - Live At The Filmore - 2000 - Flac/02 - Like An Angel.flac
+2:Tommy Castro - Live At The Filmore - 2000 - Flac/03 - Nasty Habits.flac
+3:Tommy Castro - Live At The Filmore - 2000 - Flac/04 - My Time After Awhile.flac
+4:Tommy Castro - Live At The Filmore - 2000 - Flac/05 - Lucky In Love.flac
+5:Tommy Castro - Live At The Filmore - 2000 - Flac/06 - I Got To Change.flac
+6:Tommy Castro - Live At The Filmore - 2000 - Flac/07 - Can't You See What You're Doing To Me.flac
+7:Tommy Castro - Live At The Filmore - 2000 - Flac/08 - Just A Man.flac
+8:Tommy Castro - Live At The Filmore - 2000 - Flac/09 - Can't Keep A Good Man Down.flac
+9:Tommy Castro - Live At The Filmore - 2000 - Flac/10 - The Girl Can't Help It.flac
+playlist_end

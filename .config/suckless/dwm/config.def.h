@@ -28,6 +28,31 @@ static const char *colors[][3]      = {
 	[SchemeSel]  = { col_gray4, col_cyan,  col_cyan  },
 };
 
+typedef struct {
+	const char *name;
+	const void *cmd;
+} Sp;
+const char *spcmd1[] = {"alacritty",     "-t", "spterm", "--class", "spterm", NULL };
+const char *spcmd2[] = {"alacritty", "-t", "spfm", "--class", "spfm", "-e", "ranger", NULL };
+const char *spcmd3[] = {"alacritty", "-t", "sp2", "--class", "sp2", NULL };
+const char *spcmd4[] = {"Bitwarden", NULL };
+const char *spcmd5[] = {"alacritty", "-t", "vol", "--class", "vol", "-e", "pulsemixer", NULL };
+const char *spcmd6[] = {"alacritty", "-t", "mus", "--class", "mus", "-e", "ncmpcpp", NULL };
+const char *spcmd7[] = {"alacritty", "-t", "mail", "--class", "mail", "-e", "neomutt", NULL };
+const char *spcmd8[] = {"alacritty", "-t", "newsboat", "--class", "newsboat", "-e", "newsboat", NULL };
+static Sp scratchpads[] = {
+	/* name          cmd  */
+	{"spterm",      spcmd1},
+	{"spranger",    spcmd2},
+	{"sp2",         spcmd3},
+	{"bitwarden",   spcmd4},
+	{"vol",         spcmd5},
+	{"mus",         spcmd6},
+	{"mail",        spcmd7},
+	{"newsboat",    spcmd8},
+};
+
+
 /* tagging */
 static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
 
@@ -36,21 +61,37 @@ static const Rule rules[] = {
 	 *	WM_CLASS(STRING) = instance, class
 	 *	WM_NAME(STRING) = title
 	 */
-	/* class              instance    title       tags mask     isfloating   monitor */
-	{ "Gimp",             NULL,       NULL,       0,            1,           -1 },
-	{ "Firefox",          NULL,       NULL,       1 << 2,       0,           -1 },
-	{ "Thunar",           NULL,       NULL,       1 << 1,       0,           -1 },
-	{ "Google-chrome",    NULL,       NULL,       1 << 2,       0,           -1 },
-	{ "thunderbird",      NULL,       NULL,       1 << 4,       0,           -1 },
-	{ "TelegramDesktop",  NULL,       NULL,       1 << 3,       0,           -1 },
-    
+	/* class              instance      title       tags mask       isfloating   monitor */
+	{ "Gimp",             NULL,         NULL,       0,              1,           -1 },
+	{ "Firefox",          NULL,         NULL,       1 << 2,         0,           -1 },
+	{ "Thunar",           NULL,         NULL,       1 << 1,         0,           -1 },
+	{ "Google-chrome",    NULL,         NULL,       1 << 2,         0,           -1 },
+	{ "thunderbird",      NULL,         NULL,       1 << 4,         0,           -1 },
+	{ "TelegramDesktop",  NULL,         NULL,       1 << 3,         0,           -1 },
+   	{ "spterm",	          NULL,			NULL,		0,			    1,			 -1 },
+	{ "spfm",	          NULL,			NULL,		0,			    1,			 -1 },
+	{ "sp2",	          NULL,			NULL,		0,			    1,			 -1 },
+	{ "vol",	          NULL,			NULL,		0,			    1,			 -1 },
+	{ "mus",	          NULL,			NULL,		0,			    1,			 -1 },
+	{ "mail",	          NULL,			NULL,		0,			    1,			 -1 },
+	{ "newsboat",         NULL,			NULL,		0,			    1,			 -1 },
+	{ "ranger",	          NULL,			NULL,		0,			    1,			 -1 },
+	{ NULL,               "spterm",		NULL,		SPTAG(0),		1,			 -1 },
+	{ NULL,		          "spfm",		NULL,		SPTAG(1),		1,			 -1 },
+	{ NULL,		          "sp2",       	NULL,		SPTAG(2),		1,			 -1 },
+	{ NULL,		          "bitwarden", 	NULL,		SPTAG(3),		1,			 -1 },
+	{ NULL,		          "vol",       	NULL,		SPTAG(4),		1,			 -1 },
+	{ NULL,		          "mus",       	NULL,		SPTAG(5),		1,			 -1 },
+	{ NULL,		          "mail",      	NULL,		SPTAG(6),		1,			 -1 },
+	{ NULL,		          "newsboat",   NULL,		SPTAG(7),		1,			 -1 },
+
 };
 
 /* layout(s) */
-static const float mfact     = 0.55; /* factor of master area size [0.05..0.95] */
-static const int nmaster     = 1;    /* number of clients in master area */
-static const int resizehints = 1;    /* 1 means respect size hints in tiled resizals */
-static const int lockfullscreen = 1; /* 1 will force focus on the fullscreen window */
+static const float mfact        = 0.25; /* factor of master area size [0.05..0.95] */
+static const int nmaster        = 1;    /* number of clients in master area */
+static const int resizehints    = 1;    /* 1 means respect size hints in tiled resizals */
+static const int lockfullscreen = 1;    /* 1 will force focus on the fullscreen window */
 
 static const Layout layouts[] = {
 	/* symbol     arrange function */
@@ -117,6 +158,15 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_period, focusmon,       {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_comma,  tagmon,         {.i = -1 } },
 	{ MODKEY|ShiftMask,             XK_period, tagmon,         {.i = +1 } },
+/*Scratchpads*/
+	{ ControlMask,            		XK_1,  	   togglescratch,  {.ui = 0 } }, /* Terminal */
+	{ ControlMask,       			XK_3,	   togglescratch,  {.ui = 1 } }, /* Ranger */
+	{ ControlMask,         			XK_5,	   togglescratch,  {.ui = 2 } }, /* Terminal */
+	{ ControlMask,          		XK_4,	   togglescratch,  {.ui = 3 } }, /* biwarden */
+	{ ControlMask,        			XK_6,	   togglescratch,  {.ui = 4 } }, /* pulsemixer */
+	{ ControlMask,       			XK_2,	   togglescratch,  {.ui = 5 } }, /* music */
+	{ ControlMask,         			XK_7,	   togglescratch,  {.ui = 6 } }, /* neomutt */
+	{ ControlMask,       			XK_8,	   togglescratch,  {.ui = 7 } }, /* newsboat */
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)
 	TAGKEYS(                        XK_3,                      2)
@@ -139,7 +189,7 @@ static const Button buttons[] = {
 	{ ClkStatusText,        0,              Button2,        spawn,          {.v = termcmd } },
 	{ ClkClientWin,         MODKEY,         Button1,        movemouse,      {0} },
 	{ ClkClientWin,         MODKEY,         Button2,        togglefloating, {0} },
-	{ ClkClientWin,         MODKEY,         Button3,        resizemouse,    {0} },
+	{ ClkClientWin,         MODKEY,         Button1,        resizemouse,    {0} },
 	{ ClkTagBar,            0,              Button1,        view,           {0} },
 	{ ClkTagBar,            0,              Button3,        toggleview,     {0} },
 	{ ClkTagBar,            MODKEY,         Button1,        tag,            {0} },

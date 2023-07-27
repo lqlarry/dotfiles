@@ -21,5 +21,9 @@ alias ea='nvim .aliases && source .bashrc'
 alias free='free -mht'
 alias updatedb='sudo updatedb'
 
+alias cdgd='cd ~/.git/dotfiles'
+alias cdgw='cd ~/.git/wallpapers'
+alias cddwm='cd ~/.git/dotfiles/.config/suckless/dwm'
+
 disfetch
 

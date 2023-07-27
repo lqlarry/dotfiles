@@ -31,7 +31,7 @@ if [ -r ~/.zshrc -a -r ~/.zshrc.global -a ! -r ~/.zshrc.local ] ; then
 fi
 
 PS1='%~ $ '
-RPROMPT="[%D{%f/%m/%y} | %D{%L:%M:%S}]"
+RPROMPT="[%D{%m/%f/%y} | %D{%L:%M:%S}]"
 
 setopt share_history
 

@@ -7,6 +7,7 @@ xinput set-prop "ELAN0644:00 04F3:31AD Touchpad" "libinput Tapping Enabled" 1 &
 feh --bg-scale ~/.wal/tardis.jpg &
 nm-applet &
 udiskie -t &
+mpd &
 picom &
 polkit-dumb-agent &
 blueman-applet &

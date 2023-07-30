@@ -32,24 +32,16 @@ typedef struct {
 	const char *name;
 	const void *cmd;
 } Sp;
-const char *spcmd1[] = {"alacritty",     "-t", "spterm", "--class", "spterm", NULL };
-const char *spcmd2[] = {"alacritty", "-t", "spfm", "--class", "spfm", "-e", "ranger", NULL };
-const char *spcmd3[] = {"alacritty", "-t", "sp2", "--class", "sp2", NULL };
-const char *spcmd4[] = {"Bitwarden", NULL };
-const char *spcmd5[] = {"alacritty", "-t", "vol", "--class", "vol", "-e", "pulsemixer", NULL };
-const char *spcmd6[] = {"alacritty", "-t", "mus", "--class", "mus", "-e", "ncmpcpp", NULL };
-const char *spcmd7[] = {"alacritty", "-t", "mail", "--class", "mail", "-e", "neomutt", NULL };
-const char *spcmd8[] = {"alacritty", "-t", "newsboat", "--class", "newsboat", "-e", "newsboat", NULL };
+const char *spcmd1[] = {"st", "-t", "spterm", "--class", "spterm", NULL };
+const char *spcmd2[] = {"st", "-t", "mus", "--class", "mus", "-e", "ncmpcpp", NULL };
+const char *spcmd3[] = {"st", "-t", "spfm", "--class", "spfm", "-e", "ranger", NULL };
+const char *spcmd4[] = {"st", "-t", "sp2", "--class", "sp2", NULL };
 static Sp scratchpads[] = {
 	/* name          cmd  */
 	{"spterm",      spcmd1},
-	{"spranger",    spcmd2},
-	{"sp2",         spcmd3},
-	{"bitwarden",   spcmd4},
-	{"vol",         spcmd5},
-	{"mus",         spcmd6},
-	{"mail",        spcmd7},
-	{"newsboat",    spcmd8},
+	{"mus",         spcmd2},
+	{"spranger",    spcmd3},
+	{"sp2",         spcmd4},
 };
 
 
@@ -65,7 +57,9 @@ static const Rule rules[] = {
 	{ "Gimp",             NULL,         NULL,       0,              1,           -1 },
 	{ "Firefox",          NULL,         NULL,       1 << 2,         0,           -1 },
 	{ "Thunar",           NULL,         NULL,       1 << 1,         0,           -1 },
-	{ "Google-chrome",    NULL,         NULL,       1 << 2,         0,           -1 },
+	{ "Google-chrome",    NULL,         NULL,       1 << 6,         0,           -1 },
+	{ "Microsoft-edge",   NULL,         NULL,       1 << 2,         0,           -1 },
+	{ "discord",          NULL,         NULL,       1 << 5,         0,           -1 },
 	{ "thunderbird",      NULL,         NULL,       1 << 4,         0,           -1 },
 	{ "TelegramDesktop",  NULL,         NULL,       1 << 3,         0,           -1 },
    	{ "spterm",	          NULL,			NULL,		0,			    1,			 -1 },
@@ -160,13 +154,9 @@ static const Key keys[] = {
 	{ MODKEY|ShiftMask,             XK_period, tagmon,         {.i = +1 } },
 /*Scratchpads*/
 	{ ControlMask,            		XK_1,  	   togglescratch,  {.ui = 0 } }, /* Terminal */
-	{ ControlMask,       			XK_3,	   togglescratch,  {.ui = 1 } }, /* Ranger */
-	{ ControlMask,         			XK_5,	   togglescratch,  {.ui = 2 } }, /* Terminal */
-	{ ControlMask,          		XK_4,	   togglescratch,  {.ui = 3 } }, /* biwarden */
-	{ ControlMask,        			XK_6,	   togglescratch,  {.ui = 4 } }, /* pulsemixer */
-	{ ControlMask,       			XK_2,	   togglescratch,  {.ui = 5 } }, /* music */
-	{ ControlMask,         			XK_7,	   togglescratch,  {.ui = 6 } }, /* neomutt */
-	{ ControlMask,       			XK_8,	   togglescratch,  {.ui = 7 } }, /* newsboat */
+	{ ControlMask,       			XK_3,	   togglescratch,  {.ui = 2 } }, /* Ranger */
+	{ ControlMask,       			XK_2,	   togglescratch,  {.ui = 3 } }, /* music */
+	{ ControlMask,         			XK_5,	   togglescratch,  {.ui = 4 } }, /* Terminal */
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)
 	TAGKEYS(                        XK_3,                      2)

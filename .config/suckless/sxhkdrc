@@ -3,9 +3,9 @@ super + Escape
 	"$XDG_CONFIG_HOME"/sxhkd/functions
 
 # make sxhkd reload its configuration files:
-super + ~
+super + r 
   pkill -USR1 -x sxhkd
-super + alt + w
+super + alt + g
     google-chrome-stable
 #    ~/.local/bin/chrome.sh
 super + alt + f
@@ -18,12 +18,16 @@ super + shift + c
     bspc node -c
 super + shift + Return
     rofi -combi-modi window,drun,ssh -show combi
+super + alt + w
+    microsoft-edge-stable
+super + alt + d
+    discord
 
 Print
     scrot ~/.screenshots/$(date +%Y-%m-%d_%H%M%S).png
 
-ctrl +1
-    tdrop -am -w 60% -y 30% -x 20% kitty
+ctrl + shift + 1
+    tdrop -mas -w 60% -y 30% -x 20% -n 0 tmux 
 
 # Volume settings
 XF86AudioRaiseVolume

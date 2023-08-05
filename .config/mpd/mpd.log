@@ -1410,3 +1410,12 @@ Jul 29 15:18 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/
 Jul 29 15:21 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/01 - Right As Rain.flac"
 Jul 29 17:45 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/01 - Right As Rain.flac"
 Jul 29 17:54 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/01 - Right As Rain.flac"
+Jul 30 00:11 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/01 - Right As Rain.flac"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Aug 05 08:09 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/01 - Right As Rain.flac"

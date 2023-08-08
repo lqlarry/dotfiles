@@ -33,7 +33,12 @@ fi
 PS1='%~ $ '
 RPROMPT="[%D{%m/%f/%y} | %D{%L:%M:%S}]"
 
-setopt share_history
+setopt SHARE_HISTORY
+HISTFILE=$HOME/.zsh_history
+SAVEHIST=1000
+HISTSIZE=999
+setopt HIST_EXPIRE_DUPS_FIRST
+
 
 bindkey  "^[[H"   beginning-of-line
 bindkey  "^[[F"   end-of-line

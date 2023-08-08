@@ -1,0 +1,6 @@
+disfetch
+google-chrome
+microsoft-edge-stable-bin
+ocs-url
+sabnzbd
+sabnzbd-desktop

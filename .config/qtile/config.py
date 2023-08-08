@@ -41,12 +41,24 @@ keys = [
         desc="Launch Thunar"),
 
     Key([mod, "mod1"], "w", 
+        lazy.spawn("microsoft-edge-stable"), 
+        desc="Launch Microsoft Edge"),
+
+    Key([mod, "mod1"], "g", 
         lazy.spawn("google-chrome-stable"), 
         desc="Launch Google Chrome"),
 
     Key([mod, "mod1"], "t", 
         lazy.spawn("telegram-desktop"), 
         desc="Launch Telegram-Desktop"),
+
+    Key([mod, "mod1"], "m", 
+        lazy.spawn("thunderbird"), 
+        desc="Launch Thunderbird"),
+
+    Key([mod, "mod1"], "d", 
+        lazy.spawn("discord"), 
+        desc="Launch Discord"),
 
     Key([mod, "shift"], "c",
         lazy.window.kill(), 
@@ -133,15 +145,15 @@ keys = [
         lazy.layout.normalize(),
         desc="Reset all window sizes")]
 
-groups = [Group('1', label="", layout='monadtall'),
-          Group('2', label="", layout='monadtall', matches=[Match(wm_class='pcmanfm')]),
-          Group('3', label="", layout='max', matches=[Match(wm_class='google-chrome-stable')]),
-          Group('4', label="", layout='monadtall'),
-          Group('5', label="", layout='monadtall'),
-          Group('6', label="", layout='monadtall'),
-          Group('7', label="", layout='monadtall'),
-          Group('8', label="", layout='monadtall'),
-          Group('9', label="", layout='monadtall', matches=[Match(wm_class='telegram-desktop')])]
+groups = [Group('1', label="1", layout='monadtall'),
+          Group('2', label="2", layout='monadtall', matches=[Match(wm_class='thunar')]),
+          Group('3', label="3", layout='max', matches=[Match(wm_class='microsoft-edge-stable')]),
+          Group('4', label="4", layout='max', matches=[Match(wm_class='google-chrome-stable')]), 
+          Group('5', label="5", layout='monadtall', matches=[Match(wm_class='telegram-desktop')]),
+          Group('6', label="6", layout='monadtall', matches=[Match(wm_class='thunderbird')]), 
+          Group('7', label="7", layout='monadtall', matches=[Match(wm_class='discord')]),
+          Group('8', label="8", layout='monadtall', matches=[Match(wm_class='transmission')]),
+          Group('9', label="9", layout='monadtall')]
 
 group_names =  []
         
@@ -202,22 +214,34 @@ widget_defaults = dict(
         font="Hurmit Nerd Font Bold",
     fontsize=13,
     padding=3,
-    background="#2e3440",
-    foreground="#2e3440",
+    background="#244357",
+    foreground="#244357",
 )
 extension_defaults = widget_defaults.copy()
 
+## TREE COLOR SCHEME
+color1 = '#244357'
+color2 = '#61C1C2'
+color3 = '#BAE0C7'
+color4 = '#73A196'
+color5 = '#FD4214'
+color6 = '#D5FBFA'
+color7 = '#F8D182'
+color8 = '#66AF81'
+color9 = '#E66A68'
+color10 = '#F8F5E2'
+
 ## DRACULA COLOR SCHEME
-color1 = '#6272a4'
-color2 = '#8be9fd'
-color3 = '#50fa7b'
-color4 = '#ffb86c'
-color5 = '#ff79c6'
-color6 = '#bd93f9'
-color7 = '#ff5555'
-color8 = '#f1fa8c'
-color9 = '#44475a'
-color10 = '#f8f8f2'
+# color1 = '#6272a4'
+# color2 = '#8be9fd'
+# color3 = '#50fa7b'
+# color4 = '#ffb86c'
+# color5 = '#ff79c6'
+# color6 = '#bd93f9'
+# color7 = '#ff5555'
+# color8 = '#f1fa8c'
+# color9 = '#44475a'
+# color10 = '#f8f8f2'
 
 # ## NORD COLOR SCHEME
 # color1 = '#5E81AC'
@@ -247,25 +271,25 @@ screens = [
                 widget.Volume(
                     fmt = ': {}',
                     #background = color5,
-                    foreground = color5,
+                    foreground = color2,
                     emoji = False,
                     ),
                 widget.Spacer( length=15),
                 widget.Mpd2(
                     max_chars = 32,
-                    foreground = color4,
+                    foreground = color8,
                     status_format = '  {play_status} {artist}  {title}',
                     update_interval = 1,
                     ),
                 widget.Spacer(),
                 widget.GroupBox(
-                    font = "Hurmit Nerd Font",
-                    fontsize = 18,
-                    active = color1,
+                    font = "Hurmit Nerd Font Bold",
+                    fontsize = 14,
+                    active = color3,
                     hide_unused = True,
                     #background = color1, 
                     highlight_method = 'line',
-                    highlight_color = color1,
+                    highlight_color = color4,
                     block_highlight_text_color = color10,
                     ),
                 widget.Prompt(),
@@ -285,12 +309,12 @@ screens = [
                     metric = False,
                     update_interval = 600,
                     #background = color8,
-                    foreground = color8,
+                    foreground = color7,
                     ),
                 widget.Spacer( length=15),
                 widget.Clock(
                     fontsize = 13,
-                    format=" %l:%M %p (%a, %b %d)",
+                    format="󱑏 %l:%M %p (%a, %b %d)",
                     #background = color6,
                     foreground = color6,
                     ),

@@ -1419,3 +1419,28 @@ WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedeskto
 WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
 WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
 Aug 05 08:09 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/01 - Right As Rain.flac"
+Aug 05 11:36 : exception: Failed to decode /home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/01 - Right As Rain.flac; Failed to open '/home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/01 - Right As Rain.flac': No such file or directory
+Aug 05 11:36 : exception: Failed to decode /home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/02 - Like An Angel.flac; Failed to open '/home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/02 - Like An Angel.flac': No such file or directory
+Aug 05 11:36 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/01 - Right As Rain.flac"
+Aug 05 11:36 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Aug 05 22:04 : exception: Failed to decode /home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/01 - Right As Rain.flac; Failed to open '/home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/01 - Right As Rain.flac': No such file or directory
+Aug 05 22:04 : exception: Failed to decode /home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/02 - Like An Angel.flac; Failed to open '/home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/02 - Like An Angel.flac': No such file or directory
+Aug 05 22:04 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/01 - Right As Rain.flac"
+Aug 05 22:04 : exception: Failed to decode /home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/02 - Like An Angel.flac; Failed to open '/home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/02 - Like An Angel.flac': No such file or directory
+Aug 05 22:04 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/02 - Like An Angel.flac"
+Aug 05 22:04 : exception: Failed to decode /home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/03 - Nasty Habits.flac; Failed to open '/home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/03 - Nasty Habits.flac': No such file or directory
+Aug 05 22:04 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/03 - Nasty Habits.flac"
+Aug 05 22:04 : exception: Failed to decode /home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/04 - My Time After Awhile.flac; Failed to open '/home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/04 - My Time After Awhile.flac': No such file or directory
+Aug 05 22:04 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/04 - My Time After Awhile.flac"
+Aug 05 22:04 : exception: Failed to decode /home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/04 - My Time After Awhile.flac; Failed to open '/home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/04 - My Time After Awhile.flac': No such file or directory
+Aug 05 22:04 : exception: Failed to decode /home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/05 - Lucky In Love.flac; Failed to open '/home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/05 - Lucky In Love.flac': No such file or directory
+Aug 05 22:04 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/04 - My Time After Awhile.flac"
+Aug 05 22:04 : exception: Failed to decode /home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/05 - Lucky In Love.flac; Failed to open '/home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/05 - Lucky In Love.flac': No such file or directory
+Aug 05 22:04 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/05 - Lucky In Love.flac"
+Aug 05 22:04 : exception: Failed to decode /home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/06 - I Got To Change.flac; Failed to open '/home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/06 - I Got To Change.flac': No such file or directory
+Aug 05 22:04 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/06 - I Got To Change.flac"

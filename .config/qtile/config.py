@@ -153,7 +153,7 @@ groups = [Group('1', label="1", layout='monadtall'),
           Group('6', label="6", layout='monadtall', matches=[Match(wm_class='thunderbird')]), 
           Group('7', label="7", layout='monadtall', matches=[Match(wm_class='discord')]),
           Group('8', label="8", layout='monadtall', matches=[Match(wm_class='transmission')]),
-          Group('9', label="9", layout='monadtall')]
+          Group('9', label="9", layout='max', matches=[Match(wm_class='mpv')])]
 
 group_names =  []
         

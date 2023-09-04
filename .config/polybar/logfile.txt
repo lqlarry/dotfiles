@@ -1,0 +1,2 @@
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|error: Uncaught exception, shutting down: /home/larry/.config/polybar/config.ini:214: Duplicate key name "type" defined in section "module/xwindow"

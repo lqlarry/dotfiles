@@ -7,7 +7,7 @@ super + Return
 	kitty
 
 super + alt + f
-    thunar
+    thunar 
 
 super + alt + w
     microsoft-edge-stable
@@ -26,7 +26,11 @@ super + alt + d
 
 # program launcher
 super + shift + Return
-	dmenu_run
+    rofi -combi-modi window,drun,ssh -show combi
+
+# Screenshots
+Print
+    scrot -d 3 ~/.screenshots/$(date +%Y-%m-%d_%H%M%S).png
 
 # make sxhkd reload its configuration files:
 super + Escape

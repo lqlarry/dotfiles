@@ -1,0 +1,1160 @@
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|error: Uncaught exception, shutting down: /home/larry/.config/polybar/config.ini:214: Duplicate key name "type" defined in section "module/xwindow"
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|error: Uncaught exception, shutting down: /home/larry/.config/polybar/config.ini:214: Duplicate key name "type" defined in section "module/xwindow"
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|error: Uncaught exception, shutting down: /home/larry/.config/polybar/config.ini:214: Duplicate key name "type" defined in section "module/filesystem"
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 4618)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/bspwm'
+polybar|error: Disabling module "ewmh" (reason: Could not find socket: /tmp/bspwm_0_0-socket)
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 5 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 6076)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|error: Invalid value for "module/ewmh.label-active-foreground", using default value (reason: The reference ${colors.foreground-alt4} does not exist (no fallback set))
+polybar|error: Invalid value for "module/ewmh.label-occupied-foreground", using default value (reason: The reference ${colors.foreground-alt} does not exist (no fallback set))
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 6 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 6279)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|error: Invalid value for "module/ewmh.label-active-foreground", using default value (reason: The reference ${colors.foreground-alt4} does not exist (no fallback set))
+polybar|error: Invalid value for "module/ewmh.label-occupied-foreground", using default value (reason: The reference ${colors.foreground-alt} does not exist (no fallback set))
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 6 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|error: X connection error, terminating... (what: Socket, pipe or stream error)
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 6388)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|error: Invalid value for "module/ewmh.label-active-foreground", using default value (reason: The reference ${colors.foreground-alt4} does not exist (no fallback set))
+polybar|error: Invalid value for "module/ewmh.label-occupied-foreground", using default value (reason: The reference ${colors.foreground-alt} does not exist (no fallback set))
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 6 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 7934)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|error: X connection error, terminating... (what: Socket, pipe or stream error)
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 963)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink 
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|error: X connection error, terminating... (what: Socket, pipe or stream error)
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 1851)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|error: X connection error, terminating... (what: Socket, pipe or stream error)
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 2467)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|error: X connection error, terminating... (what: Socket, pipe or stream error)
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 3456)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|warn:  background_manager: Failed to get root pixmap, default to black (is there a wallpaper?)
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo.2
+polybar|warn:  Dropping unmatched character ’ (U+2019) in ' It’s time to replace your Furn...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in ' It’s time to replace your Furn...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in ' It’s time to replace your Furn...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in ' It’s time to replace your Furn...'
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 932)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink 
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 929)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink 
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 2685)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 4637)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 5739)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|warn:  Dropping unmatched character ™ (U+2122) in ' Informed Delivery™ - Google Ch...'
+polybar|warn:  Dropping unmatched character ™ (U+2122) in ' Informed Delivery™ - Google Ch...'
+polybar|warn:  Dropping unmatched character ™ (U+2122) in ' Informed Delivery™ - Google Ch...'
+polybar|warn:  Dropping unmatched character ™ (U+2122) in ' Informed Delivery™ - Google Ch...'
+polybar|warn:  Dropping unmatched character ™ (U+2122) in ' Informed Delivery™ - Google Ch...'
+polybar|warn:  Dropping unmatched character ™ (U+2122) in ' Informed Delivery™ - Google Ch...'
+polybar|warn:  Dropping unmatched character ™ (U+2122) in ' Informed Delivery™ - Google Ch...'
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 38173)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|error: X connection error, terminating... (what: Socket, pipe or stream error)
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 920)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink 
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 1795)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 3692)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 9614)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 10034)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 11127)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 11842)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 12621)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 13109)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 13763)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 14312)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 17129)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 21017)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 22220)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 23103)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 23849)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 35198)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 39293)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 67758)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 77742)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 86132)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 95108)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 97307)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 97408)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 97559)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 97674)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 97791)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 97905)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 98077)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 98161)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 98328)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|error: Uncaught exception, shutting down: /home/larry/.config/polybar/config.ini:158: Unknown line type: "
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 98640)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 98789)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 98920)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 99037)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 100554)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 101651)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1b.0.hdmi-stereo
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|error: X connection error, terminating... (what: Socket, pipe or stream error)
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 939)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink 
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|warn:  Dropping unmatched character 💃 (U+1f483) in '   Love this dance trend!💃🏼🕺#marv...'
+polybar|warn:  Dropping unmatched character 🏼 (U+1f3fc) in '   Love this dance trend!💃🏼🕺#marv...'
+polybar|warn:  Dropping unmatched character 🕺 (U+1f57a) in '   Love this dance trend!💃🏼🕺#marv...'
+polybar|warn:  Dropping unmatched character 💃 (U+1f483) in '   Love this dance trend!💃🏼🕺#marv...'
+polybar|warn:  Dropping unmatched character 🏼 (U+1f3fc) in '   Love this dance trend!💃🏼🕺#marv...'
+polybar|warn:  Dropping unmatched character 🕺 (U+1f57a) in '   Love this dance trend!💃🏼🕺#marv...'
+polybar|warn:  Dropping unmatched character 💃 (U+1f483) in '   Love this dance trend!💃🏼🕺#marv...'
+polybar|warn:  Dropping unmatched character 🏼 (U+1f3fc) in '   Love this dance trend!💃🏼🕺#marv...'
+polybar|warn:  Dropping unmatched character 🕺 (U+1f57a) in '   Love this dance trend!💃🏼🕺#marv...'
+polybar|warn:  Dropping unmatched character 💃 (U+1f483) in '   Love this dance trend!💃🏼🕺#marv...'
+polybar|warn:  Dropping unmatched character 🏼 (U+1f3fc) in '   Love this dance trend!💃🏼🕺#marv...'
+polybar|warn:  Dropping unmatched character 🕺 (U+1f57a) in '   Love this dance trend!💃🏼🕺#marv...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   Corrupt judges at the Matt’s O...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   It’s just that easy! Want more...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   It’s just that easy! Want more...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   It’s just that easy! Want more...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   It’s just that easy! Want more...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   It’s just that easy! Want more...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   It’s just that easy! Want more...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   It’s just that easy! Want more...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥵 (U+1f975) in '   Gangster VS Street thugs 🔥🥵 #s...'
+polybar|warn:  Dropping unmatched character 🥰 (U+1f970) in '   hi 🥰 #adventure #adventuretime...'
+polybar|warn:  Dropping unmatched character 🥰 (U+1f970) in '   hi 🥰 #adventure #adventuretime...'
+polybar|warn:  Dropping unmatched character 🥰 (U+1f970) in '   hi 🥰 #adventure #adventuretime...'
+polybar|warn:  Dropping unmatched character 🥰 (U+1f970) in '   hi 🥰 #adventure #adventuretime...'
+polybar|warn:  Dropping unmatched character 🥰 (U+1f970) in '   hi 🥰 #adventure #adventuretime...'
+polybar|warn:  Dropping unmatched character 💯 (U+1f4af) in '   The ultimate hustle play 💯 #sh...'
+polybar|warn:  Dropping unmatched character 💯 (U+1f4af) in '   The ultimate hustle play 💯 #sh...'
+polybar|warn:  Dropping unmatched character 💯 (U+1f4af) in '   The ultimate hustle play 💯 #sh...'
+polybar|warn:  Dropping unmatched character 💯 (U+1f4af) in '   The ultimate hustle play 💯 #sh...'
+polybar|warn:  Dropping unmatched character 💯 (U+1f4af) in '   The ultimate hustle play 💯 #sh...'
+polybar|warn:  Dropping unmatched character 💯 (U+1f4af) in '   The ultimate hustle play 💯 #sh...'
+polybar|warn:  Dropping unmatched character 💯 (U+1f4af) in '   The ultimate hustle play 💯 #sh...'
+polybar|warn:  Dropping unmatched character 💯 (U+1f4af) in '   The ultimate hustle play 💯 #sh...'
+polybar|warn:  Dropping unmatched character 💯 (U+1f4af) in '   The ultimate hustle play 💯 #sh...'
+polybar|warn:  Dropping unmatched character 💯 (U+1f4af) in '   The ultimate hustle play 💯 #sh...'
+polybar|warn:  Dropping unmatched character 💯 (U+1f4af) in '   The ultimate hustle play 💯 #sh...'
+polybar|warn:  Dropping unmatched character 💯 (U+1f4af) in '   The ultimate hustle play 💯 #sh...'
+polybar|warn:  Dropping unmatched character 💯 (U+1f4af) in '   The ultimate hustle play 💯 #sh...'
+polybar|warn:  Dropping unmatched character 💯 (U+1f4af) in '   The ultimate hustle play 💯 #sh...'
+polybar|notice:  Parsing config file: /home/larry/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 943)
+polybar|warn:  No monitor specified, using "HDMI1"
+polybar|notice:  Loading module 'ewmh' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'weather' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink 
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "Hermit:style=Bold:pixelsize=12" (name=Hermit, offset=3, file=/usr/share/fonts/OTF/Hermit-Bold.otf)
+polybar|notice:  Loaded font "Hurmit Nerd Font:pixelsize=16" (name=Hurmit Nerd Font, offset=2, file=/usr/share/fonts/OTF/HurmitNerdFont-Regular.otf)
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🙃 (U+1f643) in '   Toodaloooo🙃 - YouTube - Google...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character 🔥 (U+1f525) in '   🔥The 'Happy Accident' Hack!🔥 #...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   I’m Appalled - YouTube - Googl...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   I’m Appalled - YouTube - Googl...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   I’m Appalled - YouTube - Googl...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   I’m Appalled - YouTube - Googl...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   I’m Appalled - YouTube - Googl...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   I’m Appalled - YouTube - Googl...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   I’m Appalled - YouTube - Googl...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   I’m Appalled - YouTube - Googl...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character 😂 (U+1f602) in '   The end 😂😂😂 #viral #shorts #fu...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   He’s way too smart… #movie #fy...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   He’s way too smart… #movie #fy...'
+polybar|warn:  Dropping unmatched character ’ (U+2019) in '   He’s way too smart… #movie #fy...'

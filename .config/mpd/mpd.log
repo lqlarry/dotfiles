@@ -1444,3 +1444,14 @@ Aug 05 22:04 : exception: Failed to decode /home/larry/Music/Tommy Castro - Live
 Aug 05 22:04 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/05 - Lucky In Love.flac"
 Aug 05 22:04 : exception: Failed to decode /home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/06 - I Got To Change.flac; Failed to open '/home/larry/Music/Tommy Castro - Live At The Filmore - 2000 - Flac/06 - I Got To Change.flac': No such file or directory
 Aug 05 22:04 : player: played "Tommy Castro - Live At The Filmore - 2000 - Flac/06 - I Got To Change.flac"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged

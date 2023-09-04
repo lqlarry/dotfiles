@@ -1,5 +1,7 @@
 
-
+alias ..='cd ..'
+alias ...='cd ../..'
+alias cd..='cd ..'
 alias ls='exa -a --color=always --icons --group-directories-first'
 alias ll='exa -al --color=always --icons --group-directories-first'
 alias cat='bat'
@@ -8,7 +10,7 @@ alias inxi='inxi -SAGM'
 alias v='nvim'
 alias vim='nvim'
 alias inny='yay -S'
-alias uppy='yay -Syu'
+alias uppy='yay -Syu && flatpak update'
 alias se='yay'
 alias cp="cp -ir"
 alias rm="rm -ir"
@@ -22,10 +24,11 @@ alias ea='nvim .aliases && source .bashrc'
 alias free='free -mht'
 alias updatedb='sudo updatedb'
 
+alias bashup='source ~/.bashrc'
 alias cdgd='cd ~/.git/dotfiles'
+alias cdcon='cd ~/.git/dotfiles/.config/'
 alias cdgw='cd ~/.git/wallpapers'
 alias cdsuck='cd ~/.git/dotfiles/.config/suckless/'
 alias cdq='cd ~/.git/dotfiles.config/qtile'
 
-disfetch
 
